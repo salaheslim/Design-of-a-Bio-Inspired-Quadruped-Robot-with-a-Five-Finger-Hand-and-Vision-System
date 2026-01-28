@@ -59,6 +59,10 @@ Demonstration focusing on the manipulator subsystem, showing the arm kinematics,
 
 Video 3 – Final Design Views and Configuration Variations
 Showcase of different robot poses and configurations, highlighting stability, reachability, and the interaction between locomotion and manipulation components.
-🔗 https://youtu.be/fAwzhtrWwj8
+🔗 https://youtu.be/fAwzhtrWwj8 
+
+Video 4 - design parts simulation
+🔗 https://youtu.be/1MEskr-doe8 
+
 
 
